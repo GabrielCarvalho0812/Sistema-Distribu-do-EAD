@@ -20,9 +20,9 @@ Este projeto é uma aplicação educacional baseada em arquitetura de microservi
 
 | Serviço          | Função                             | Repositório                                                |
 |------------------|------------------------------------|------------------------------------------------------------|
-| Config Server     | Central de configuração            | []() |
+| Config Server     | Central de configuração            | [Config-Server ](https://github.com/GabrielCarvalho0812/Service-Registry-ead) |
 | Discovery Server  | Registro e descoberta de serviços  | [discovery-server](https://github.com/GabrielCarvalho0812/Service-Registry-ead) |
-| API Gateway       | Roteamento de requisições          | []() |
+| API Gateway       | Roteamento de requisições          | [API-Gateway](https://github.com/GabrielCarvalho0812/api-gateway) |
 
 ---
 
