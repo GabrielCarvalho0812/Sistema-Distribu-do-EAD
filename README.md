@@ -11,8 +11,8 @@ Este projeto é uma aplicação educacional baseada em arquitetura de microservi
 
 | Serviço         | Descrição                            | Repositório                                              |
 |----------------|----------------------------------------|----------------------------------------------------------|
-| User Service    | Gerenciamento de usuários             | [user-service](https://github.com/GabrielCarvalho0812/Authuser-ead/tree/feature/novo-modelo) |
-| Course Service  | Gerenciamento de cursos               | [course-service](https://github.com/GabrielCarvalho0812/Course-ead/tree/feature/novo-modelo) |
+| User Service    | Gerenciamento de usuários             | [user-service](https://github.com/GabrielCarvalho0812/Authuser-ead/tree/master) |
+| Course Service  | Gerenciamento de cursos               | [course-service](https://github.com/GabrielCarvalho0812/Course-ead/tree/master) |
 | Notification    | Envio de notificações                 | [notification-service](https://github.com/GabrielCarvalho0812/notification-ead) |
 | Payment         | Processamento de pagamentos           | [payment-service](https://github.com/GabrielCarvalho0812/payment-ead) |
 
